@@ -19,9 +19,9 @@ Output for one of the image
 ![image](https://user-images.githubusercontent.com/103937074/236610341-77459fc8-6a0e-42bd-becc-0bfb44b98cec.png)
 
 Done by
-Sarvesh
-Franklin
-Vaishnavi Sudakar
-Nandha
-Jaswanth
-Harshitha
+Sarvesh,
+Franklin,
+Vaishnavi Sudakar,
+Nandha,
+Jaswanth,
+Harshitha.
